@@ -1,0 +1,16 @@
+# Octopus Ink Slime Game Dependencies
+
+# Core game development library
+pygame==2.5.2
+psutil==5.9.5
+
+# Optional: Physics engine (uncomment if needed)
+# pymunk==6.5.1
+
+# Optional: UI components (uncomment if needed)
+# pygame-gui==0.6.9
+
+# Development tools (optional)
+# pytest==7.4.3
+# black==23.11.0
+# pylint==3.0.2
